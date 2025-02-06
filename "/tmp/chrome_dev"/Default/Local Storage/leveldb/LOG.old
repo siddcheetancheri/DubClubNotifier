@@ -1,0 +1,6 @@
+2024/11/24-16:32:44.346 2d03 Reusing MANIFEST /Users/siddcheetancheri/Code/PythonProjects/DubClubNotifier/"/tmp/chrome_dev"/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/24-16:32:44.348 2d03 Recovering log #601
+2024/11/24-16:32:44.348 2d03 Reusing old log /Users/siddcheetancheri/Code/PythonProjects/DubClubNotifier/"/tmp/chrome_dev"/Default/Local Storage/leveldb/000601.log 
+2024/11/24-16:33:52.869 3b03 Level-0 table #605: started
+2024/11/24-16:33:52.875 3b03 Level-0 table #605: 63678 bytes OK
+2024/11/24-16:33:52.890 3b03 Delete type=0 #601
